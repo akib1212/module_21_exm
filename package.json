@@ -1,0 +1,21 @@
+{
+  "name": "module-21",
+  "version": "1.0.0",
+  "description": "exm assignment",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akib1212/module_21_exm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/akib1212/module_21_exm/issues"
+  },
+  "homepage": "https://github.com/akib1212/module_21_exm#readme"
+}
